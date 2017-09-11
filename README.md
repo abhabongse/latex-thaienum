@@ -1,5 +1,7 @@
 # LaTeX Thai Enumeration Package
 
+**Update:** The progress of this project has been moved to [a new repository](https://github.com/abhabongse/latex-thai-utils).
+
 This `thaienum` LaTeX package provides the command to use Thai numerals
 (๑ ๒ ๓ ๔ ...) or Thai characters (ก ข ค ง ...) as labels in enumerate
 environment.
