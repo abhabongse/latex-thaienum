@@ -2,21 +2,21 @@
 
 **Update:** The progress of this project has been moved to [a new repository](https://github.com/abhabongse/latex-thai-utils).
 
-This `thaienum` LaTeX package provides the command to use Thai numerals
+~This `thaienum` LaTeX package provides the command to use Thai numerals
 (๑ ๒ ๓ ๔ ...) or Thai characters (ก ข ค ง ...) as labels in enumerate
-environment.
+environment.~
 
-## Usage
+## ~Usage~
 
-Once the package is loaded with `\usepackage{thaienum}`, you can use labels
+~Once the package is loaded with `\usepackage{thaienum}`, you can use labels
 such as `\thainum*` or `\thaimultialph*` in conjunction with the package
-`enumitem`. See the documentation for concrete examples.
+`enumitem`. See the documentation for concrete examples.~
 
-## Package maintenance
+## ~Package maintenance~
 
-The author and maintainer of this package is Abhabongse Janthong. Anything
+~The author and maintainer of this package is Abhabongse Janthong. Anything
 regardling this package such as bug report or suggestions should be reported
-via GitHub at https://github.com/abhabongse/latex-thaienum/issues.
+via GitHub at https://github.com/abhabongse/latex-thaienum/issues.~
 
 ## License
 
